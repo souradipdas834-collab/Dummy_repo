@@ -6,4 +6,4 @@ Github is amazing and OP
 Souradip Das says that learning about SSH keys was hard....
 <br>
 But, it was worth it!!
-riju made this change
+this is an example to make a merge conflict
